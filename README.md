@@ -28,4 +28,9 @@ Our last slide gives a high-level overview of how our findings can be broken dow
 
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Per our last slide, we can understand a majority of riders are predominantly male. We can also determine that since a majority of rides are for commuting to and from work, many customers prefer a subscription rather than single rides. Lastly, it appears midtown and downtown have higher levels of traffic in regards to bike sharing. Two additional visualizations that may help us better understand our data include rider birth year & gender and bikes due for repair by customer type. These visualizations help us better understand who are riders are and what type of customers cause the most wear on bikes used.
+
+![image](https://user-images.githubusercontent.com/89496798/149848214-e5e07e15-dae6-41af-8e4d-a3a8ffecc69e.png)
+
+![image](https://user-images.githubusercontent.com/89496798/149848246-f53a0959-692a-49f3-9963-502ce90b806e.png)
+
